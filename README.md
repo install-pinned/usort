@@ -13,8 +13,8 @@ This action installs a pinned version of **usort** and all its dependencies,    
 In your GitHub Actions workflow, use this action like so:
 
 ```yaml
-- name: Install usort from PyPI
-  uses: install-pinned/usort@92d7402cbbf77a089046c234dcf8901fca23b07f  # 1.0.5
+      - name: Install usort from PyPI
+        uses: install-pinned/usort@92d7402cbbf77a089046c234dcf8901fca23b07f  # 1.0.5
 ```
 
 ## Alternatives
