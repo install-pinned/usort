@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install usort from PyPI
-        uses: install-pinned/usort@92d7402cbbf77a089046c234dcf8901fca23b07f  # 1.0.5
+        uses: install-pinned/usort@0ef8f2e483d686aba9bfd55332a879ba9e0300d3  # 1.0.5
 ```
 
 ## Alternatives
