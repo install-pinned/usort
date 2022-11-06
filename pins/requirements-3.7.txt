@@ -98,9 +98,9 @@ pyyaml==6.0 \
     --hash=sha256:e61ceaab6f49fb8bdfaa0f92c4b57bcfbea54c09277b1b4f7ac376bfb7a7c174 \
     --hash=sha256:f84fbc98b019fef2ee9a1cb3ce93e3187a6df0b2538a651bfb890254ba9f90b5
     # via libcst
-stdlibs==2022.6.8 \
-    --hash=sha256:79abd3966d80b3eb5edb6ec4be5a57b7c97ae6402dadaa52180983d13d46dc50 \
-    --hash=sha256:fa978cbf5105474a416c515e82752a8a3d833f4513977da0a6a599a3e608b438
+stdlibs==2022.10.9 \
+    --hash=sha256:0deede419c34f9d57cddaff35939af6e186be6b3293c1f022eb0647709fb5b78 \
+    --hash=sha256:72a3e4a7fbb40b0e766197e3381c2aabb4ca0442633e0bd99ffeec3908c9fdd8
     # via usort
 toml==0.10.2 \
     --hash=sha256:806143ae5bfb6a3c6e736a764057db0e6a0e05e338b5630894a5f779cabb4f9b \
@@ -125,7 +125,7 @@ usort==1.0.5 \
     --hash=sha256:8fed013e458890778bd72d347aa75b3c0ee530b5ae9d78624ad9749a29878fdd \
     --hash=sha256:d40afa981f03737d8d74f5a1a850f15741182a811df885085adcf893274c044b
     # via -r pins/requirements.in
-zipp==3.9.0 \
-    --hash=sha256:3a7af91c3db40ec72dd9d154ae18e008c69efe8ca88dde4f9a731bb82fe2f9eb \
-    --hash=sha256:972cfa31bc2fedd3fa838a51e9bc7e64b7fb725a8c00e7431554311f180e9980
+zipp==3.10.0 \
+    --hash=sha256:4fcb6f278987a6605757302a6e40e896257570d11c51628968ccb2a47e80c6c1 \
+    --hash=sha256:7a7262fd930bd3e36c50b9a64897aec3fafff3dfdeec9623ae22b40e93f99bb8
     # via importlib-metadata
