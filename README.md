@@ -19,7 +19,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install usort from PyPI
-        uses: install-pinned/usort@6de13bc28819474faadaee341ae926580925c3cd  # 1.0.5
+        uses: install-pinned/usort@bdd594a4484f552265b3d9e72f2019ba26cdfb8f  # 1.0.5
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
